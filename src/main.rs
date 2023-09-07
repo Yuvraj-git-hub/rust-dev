@@ -1,7 +1,5 @@
-fn main() {
-    let temp:Vec<i64>=vec![0;7];
-   
+fn main(){
+    let temp=vec![89,627];
+
     println!("{:?}",temp);
-    
 }
- 
